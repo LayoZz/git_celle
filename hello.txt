@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 I like Toast
 hello git celle
+=======
+fehler
+>>>>>>> d74f91f55c59f7a3ce054aa042e82c5e2ffe9eff
